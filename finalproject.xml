@@ -1,0 +1,38 @@
+<provinces>
+    <province>
+        <ProvinceAb>ON</ProvinceAb>
+        <ProvinceName>Ontario</ProvinceName>
+        <vehicles>
+            <vehicle>
+                <VehicleNumber>V001</VehicleNumber>
+                <VehicleName>Toyota Corolla</VehicleName>
+                <ManufactureDate>2018-05-15</ManufactureDate>
+                <PurchaseDate>2018-06-01</PurchaseDate>
+            </vehicle>
+            <vehicle>
+                <VehicleNumber>V009</VehicleNumber>
+                <VehicleName>Honda Civic</VehicleName>
+                <ManufactureDate>2021-06-22</ManufactureDate>
+                <PurchaseDate>2021-07-10</PurchaseDate>
+            </vehicle>
+            <vehicle>
+                <VehicleNumber>V010</VehicleNumber>
+                <VehicleName>Nissan Altima</VehicleName>
+                <ManufactureDate>2020-03-18</ManufactureDate>
+                <PurchaseDate>2020-04-12</PurchaseDate>
+            </vehicle>
+            <vehicle>
+                <VehicleNumber>V011</VehicleNumber>
+                <VehicleName>Chevrolet Spark</VehicleName>
+                <ManufactureDate>2022-08-05</ManufactureDate>
+                <PurchaseDate>2022-09-10</PurchaseDate>
+            </vehicle>
+            <vehicle>
+                <VehicleNumber>V012</VehicleNumber>
+                <VehicleName>Kia Forte</VehicleName>
+                <ManufactureDate>2023-01-15</ManufactureDate>
+                <PurchaseDate>2023-02-20</PurchaseDate>
+            </vehicle>
+        </vehicles>
+    </province>
+</provinces>
