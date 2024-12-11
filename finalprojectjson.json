@@ -1,0 +1,38 @@
+{
+    "province": {
+        "ProvinceAb": "BC",
+        "ProvinceName": "British Columbia",
+        "vehicles": [
+            {
+                "VehicleNumber": "V002",
+                "VehicleName": "Honda Civic",
+                "ManufactureDate": "2019-07-20",
+                "PurchaseDate": "2019-08-15"
+            },
+            {
+                "VehicleNumber": "V007",
+                "VehicleName": "Hyundai Elantra",
+                "ManufactureDate": "2023-01-12",
+                "PurchaseDate": "2023-02-05"
+            },
+            {
+                "VehicleNumber": "V013",
+                "VehicleName": "Ford Explorer",
+                "ManufactureDate": "2020-05-22",
+                "PurchaseDate": "2020-06-10"
+            },
+            {
+                "VehicleNumber": "V014",
+                "VehicleName": "Mazda CX-5",
+                "ManufactureDate": "2021-11-15",
+                "PurchaseDate": "2021-12-01"
+            },
+            {
+                "VehicleNumber": "V015",
+                "VehicleName": "Subaru Outback",
+                "ManufactureDate": "2022-09-18",
+                "PurchaseDate": "2022-10-01"
+            }
+        ]
+    }
+}
